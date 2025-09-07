@@ -57,7 +57,6 @@ class SerializableClass {
   });
 }
 
-@Target({TargetKind.field, TargetKind.parameter, TargetKind.optionalParameter})
 class SerializableParam {
   final bool isIgnored;
 
