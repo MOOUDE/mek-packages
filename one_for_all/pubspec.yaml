@@ -16,7 +16,7 @@ scripts:
   publish: dart pub publish
 
 dependencies:
-  meta: ^1.15.0
+  meta: ^1.9.1
 
 dev_dependencies:
   mek_lints: ^5.0.0
