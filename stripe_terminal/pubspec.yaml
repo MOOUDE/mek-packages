@@ -34,7 +34,11 @@ dependencies:
   recase: ^4.1.0
 
   mek_data_class: ^1.4.0
-  one_for_all: ^1.1.1
+
+  one_for_all:
+    git:
+      url: https://github.com/MOOUDE/mek-packages.git
+      path: one_for_all
 
 dev_dependencies:
   mek_lints: ^5.0.0
